@@ -1,4 +1,4 @@
-bank-vault
+Bank Vault
 ==========
 
-Custom microcontroller powered bank vault as a hacking challenge
+Source code and firmware for bank vault challenge detailed [here](http://thomascannon.net/projects/bank-vault/).
